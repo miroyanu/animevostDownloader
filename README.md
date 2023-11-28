@@ -1,6 +1,6 @@
 
-# animevostDownloader
-anime downloader
+# animevostDownloader<br>  
+anime downloader<br>
 Автоматически скачивает серии с https://v2.vost.pw/ остаётся добавить только url\ссылку. 
 url на аниме пример "https://v2.vost.pw/tip/tv/1754-one-punch-man-2nd-season136.html"
 Папка будет создана в той же директории где находится исполняймый файл
