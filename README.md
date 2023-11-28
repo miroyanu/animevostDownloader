@@ -1,5 +1,5 @@
 
-# animevostDownloader<br>  
+# animevostDownloader качает весь сезон по одной ссылке<br>  
 anime downloader<br>
 Автоматически скачивает серии с https://animevost.org/ остаётся добавить только url\ссылку. <br>
 url на аниме пример "https://animevost.org/tip/tv/1468-one-punch-man12.html"<br>
